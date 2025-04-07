@@ -33,7 +33,7 @@ This project, explores book recommendation systems by leveraging visual features
 ### 5. **Dataset Splitting**
 - **File:** `dataset_split.ipynb`
 - **Description:** 
-  - Splits the dataset into training, validation, and test sets.
+  - Splits the dataset into training and test sets.
 
 ### 6. **User Representation Split**
 - **File:** `user_representation_split.ipynb`
